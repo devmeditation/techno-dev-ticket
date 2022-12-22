@@ -1,0 +1,7 @@
+.socialMediaShareButton {
+  @apply
+  p-4 
+  bg-brand-700 
+  rounded 
+  hover:brightness-75
+}

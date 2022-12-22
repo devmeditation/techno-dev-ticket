@@ -1,0 +1,8 @@
+.socialMediaFooter {
+  @apply
+  flex 
+  justify-between 
+  p-2 
+  mt-6 
+  w-full
+}

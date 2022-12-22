@@ -1,0 +1,69 @@
+.container {
+  @apply
+  w-screen
+  h-screen
+
+  /* py-28 */
+   
+  flex-1
+  flex
+  flex-col
+  items-center
+  justify-center
+
+  text-neutral-200
+  bg-green-700/10
+}
+
+.logo {
+  @apply
+  p-5
+  pb-0
+
+  mb-2
+
+  flex
+  justify-center
+
+  
+  border-b-4
+  rounded-md
+  
+}
+
+.title {
+  @apply
+  w-full
+  p-5
+
+  flex
+  justify-center
+  items-center
+
+  text-3xl
+  md:text-4xl  
+}
+
+.title span{
+  @apply
+  p-2
+  m-5
+  text-5xl
+  md:text-6xl
+  text-green-500
+  rounded-lg
+  bg-gradient-to-tl from-transparent via-blue-500/25 to-brand-500
+  
+}
+
+.goback {
+  @apply
+  text-3xl
+  text-green-500
+  font-bold
+  animate-pulse
+
+  hover:text-brand-700
+  hover:border-b-2
+  hover:animate-none
+}

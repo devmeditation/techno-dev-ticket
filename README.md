@@ -33,11 +33,10 @@ Autor: Dev Meditation
 
 ![mobile1](/public/promover/01-mobile.png)
 ![mobile2](/public/promover/02-mobile.png)
-![desktop2](/public/promover/12-desktop.png)
 
-![mobile1](/public/promover/01-mobile.png)
+![desktop2](/public/promover/12-desktop.png)
 ![desktop3](/public/promover/13-desktop.png)
-![mobile2](/public/promover/02-mobile.png)
+
 
 
 

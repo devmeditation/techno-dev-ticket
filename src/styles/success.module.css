@@ -1,0 +1,65 @@
+.successContainer {
+  @apply
+  lg:h-screen 
+  max-w-[480px] 
+  lg:max-w-[1240px] 
+  p-12 
+  mx-auto 
+  
+  flex 
+  flex-col 
+  lg:flex-row 
+  items-center 
+  gap-16
+}
+
+.successContainer header {
+  @apply
+  flex 
+  flex-col 
+  text-neutral-200 
+  p-4
+}
+
+
+.successHeaderGroup {
+  @apply
+  flex 
+  items-center 
+  gap-2 
+  mt-8 
+  text-neutral-200
+}
+.successHeaderTitle {
+  @apply
+  font-bold
+  text-2xl 
+  lg:text-3xl 
+  mt-8
+}
+
+.successButton {
+  @apply
+  flex 
+  gap-2 
+  justify-center 
+  items-center 
+  rounded 
+  w-full 
+  p-4 
+  mt-8 
+  text-lg 
+  text-brand-500 
+  bg-black 
+  border 
+  border-brand-500 
+  hover:brightness-75
+}
+
+.successTicket {
+  @apply
+  flex-1 
+  w-full 
+  h-auto 
+  drop-shadow-ticket
+}

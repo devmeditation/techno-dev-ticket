@@ -1,0 +1,55 @@
+.homeContainer {
+  @apply
+  lg:h-screen 
+  max-w-[480px] 
+  lg:max-w-[1240px] 
+  
+  p-12 
+  mx-auto 
+  
+  flex 
+  flex-col 
+  lg:flex-row 
+  items-center 
+  gap-16
+}
+
+.homeBox {
+  @apply
+  max-w-[520px] 
+  text-center 
+  lg:text-left
+}
+
+.homeTitle {
+  @apply
+  text-neutral-200 
+  text-3xl 
+  lg:text-4xl 
+  leading-tight 
+  block mt-12
+}
+
+.homeButtonGroup {
+  @apply
+  mt-10 
+  flex 
+  flex-col 
+  lg:flex-row
+  gap-5 
+}
+
+.buttonSignIn {
+  @apply
+  flex 
+  justify-center 
+  items-center 
+  gap-2 
+  text-neutral-100 
+  px-6 
+  py-4 
+  bg-brand-700 
+  rounded 
+  font-bold 
+  hover:hover:brightness-75
+}
