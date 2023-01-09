@@ -9,6 +9,8 @@ Gerador de ticket pra o evento: Techno Dev Olinda
 
 esse projeto foi inspirado em um vídeo da Rocketseat
 
+- [Link do projeto](https://technodev-ticket-devmeditation.netlify.app/)
+
 Autor: Dev Meditation
 
 
@@ -28,7 +30,7 @@ Autor: Dev Meditation
 
 ## Meu Cannal no Youtube
 
-- [BCL-LAB](https://youtuve.com/@bcllab)
+- [BCL-LAB](https://youtube.com/@bcllab)
 
 
 ![mobile1](/public/promover/01-mobile.png)
